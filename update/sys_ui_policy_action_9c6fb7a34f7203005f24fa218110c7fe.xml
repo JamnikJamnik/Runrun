@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>u_string_4</field>
+        <mandatory>false</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-09 10:41:19</sys_created_on>
+        <sys_id>9c6fb7a34f7203005f24fa218110c7fe</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>u_string_4</sys_name>
+        <sys_package display_value="Jamnik" source="x_179009_jamnik">e831193d4f3203005f24fa218110c742</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jamnik">e831193d4f3203005f24fa218110c742</sys_scope>
+        <sys_update_name>sys_ui_policy_action_9c6fb7a34f7203005f24fa218110c7fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-09 10:43:59</sys_updated_on>
+        <table>x_179009_jamnik_jamnik</table>
+        <ui_policy display_value="Jamnik show or hide fields">2dbd73674f7203005f24fa218110c769</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
