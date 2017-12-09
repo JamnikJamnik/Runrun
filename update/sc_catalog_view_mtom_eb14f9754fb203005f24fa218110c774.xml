@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Request a dog">b9f3b1394fb203005f24fa218110c7b8</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-03 14:03:13</sys_created_on>
+        <sys_id>eb14f9754fb203005f24fa218110c774</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a dog.catalog_request_a_dog</sys_name>
+        <sys_package display_value="Jamnik" source="x_179009_jamnik">e831193d4f3203005f24fa218110c742</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_request_a_dog">2f14f9754fb203005f24fa218110c773</sys_portal_page>
+        <sys_scope display_value="Jamnik">e831193d4f3203005f24fa218110c742</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_eb14f9754fb203005f24fa218110c774</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-03 14:03:13</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

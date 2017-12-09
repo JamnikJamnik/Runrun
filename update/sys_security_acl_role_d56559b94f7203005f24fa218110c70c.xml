@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-03 11:48:59</sys_created_on>
+        <sys_id>d56559b94f7203005f24fa218110c70c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_179009_jamnik_jamnik.x_179009_jamnik.jamnik_user</sys_name>
+        <sys_package display_value="Jamnik" source="x_179009_jamnik">e831193d4f3203005f24fa218110c742</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jamnik">e831193d4f3203005f24fa218110c742</sys_scope>
+        <sys_security_acl display_value="x_179009_jamnik_jamnik">dd6559b94f7203005f24fa218110c709</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d56559b94f7203005f24fa218110c70c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-03 11:48:59</sys_updated_on>
+        <sys_user_role display_value="x_179009_jamnik.jamnik_user" name="x_179009_jamnik.jamnik_user">896591394f7203005f24fa218110c7b6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

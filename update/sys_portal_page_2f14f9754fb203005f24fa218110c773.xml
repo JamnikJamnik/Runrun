@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2017-12-09 08:40:56">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-03 14:03:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2f14f9754fb203005f24fa218110c773</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_request_a_dog</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Jamnik" source="x_179009_jamnik">e831193d4f3203005f24fa218110c742</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jamnik">e831193d4f3203005f24fa218110c742</sys_scope>
+        <sys_update_name>sys_portal_page_2f14f9754fb203005f24fa218110c773</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-03 14:03:13</sys_updated_on>
+        <title>catalog_request_a_dog</title>
+        <user/>
+        <view>catalog_request_a_dog</view>
+    </sys_portal_page>
+</record_update>
